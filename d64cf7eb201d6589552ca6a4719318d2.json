@@ -1,3 +1,13 @@
 {
-  "Subscription": [0, 1, 2, 3, 4, 5, 6]
+  "user": "your_username",
+  "mac": "d64cf7eb201d6589552ca6a4719318d2",
+  "subscriptions": [
+    { "name": "A", "count": 20 },
+    { "name": "B", "count": 30 },
+    { "name": "C", "count": 0 },
+    { "name": "D", "count": 0 },
+    { "name": "E", "count": 0 },
+    { "name": "F", "count": 0 },
+    { "name": "G", "count": 0 }
+  ]
 }
