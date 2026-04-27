@@ -8,6 +8,6 @@
     { "name": "D", "count": 1 },
     { "name": "E", "count": 1 },
     { "name": "F", "count": 1 },
-    { "name": "G", "count": 1 }
+    { "name": "G", "count": 0 }
   ]
 }
